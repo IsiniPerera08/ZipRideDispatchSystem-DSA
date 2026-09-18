@@ -1,0 +1,13 @@
+Start,End,Weight
+CBD,Airport,10
+CBD,ShoppingMall,5
+ShoppingMall,Hospital,4
+Hospital,University,6
+University,SuburbNorth,8
+SuburbNorth,IndustrialPark,7
+Airport,SuburbNorth,6
+IndustrialPark,Airport,9
+CBD,SuburbSouth,12
+University,ShoppingMall,3
+SuburbSouth,Hospital,5
+Museum,Museum,1
