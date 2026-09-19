@@ -1,12 +1,3 @@
-// Author : Isini  Ayansa Perera
-//Student ID : 23601321
-// Date : 2026
-// File:SortingTestHarness.java
-//Purpose :   Generates ride request datasets of different sizes and conditions, executes MMerge Sort 
-//      and Quick Sort, measures execution time and comparison counts, and compares sorting performance.
-// reference(quicksort): https://www.geeksforgeeks.org/dsa/java-program-for-quicksort/
-//reference(merge sort): https://www.geeksforgeeks.org/dsa/merge-sort/
-
 public class SortingTestHarness {
 
     // Generate RideRequest dataset for testing
