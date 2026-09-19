@@ -1,10 +1,3 @@
-// Author : Isini  Ayansa Perera
-//Student ID : 23601321
-// Date  : 2026
-// File : Passenger.java
-//Purpose  : Stores passenger details including ID, name, pickup location, 
-//           and membership tier used for ride prioritisation.
-
 public class Passenger {
     private int passengerId;
     private String passengerName;
