@@ -1,10 +1,3 @@
-// Name: Isini Ayansa Perera
-// Student ID:23601321
-// File: Stack.java 
-// Purpose: Implements a stack using a linked list, provides LIFO (Last-In-First-Out) functionality
-//          for graph traversal and other system operations.
-// Cited from Practical 2 submission — refactored to use DSALinkedList and lec slides
-
 import java.util.NoSuchElementException;
 
 public class Stack {
