@@ -1,10 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: Driver.java
-//Purpose:  Represents a driver in the ZipRide system, stores driver information including driver ID, name,
-//          current location, and availability status, provides validation, accessor, and mutator methods
-//          for managing driver records.
-
 public class Driver{
     private int driverId;
     private String driverName;
