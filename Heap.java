@@ -1,11 +1,3 @@
-// Author : Isini Ayansa Perera
-//Student ID : 23601321
-// Date : 2026
-// File:Heap.java
-//Purpose  : Implements a max heap priority queue for ride scheduling, stores ride requests &
-//          ensures higher-priority requests are processed before lower-priority requests.
-//reference: COMP1002 Lecture 8
-
 public class Heap{
     private RideRequest[] heapArray;
     private int count;
