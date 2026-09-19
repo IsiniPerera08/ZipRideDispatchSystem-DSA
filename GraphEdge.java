@@ -1,9 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: GraphEdge.java
-//Purpose: Represents a road (edge) connecting two locations in the graph,stores the 
-//          destination location and the travel time (weight) associated with the road.
-
 public class GraphEdge {
     private GraphNode location;
     private int weight;
