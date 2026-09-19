@@ -1,9 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: GraphTestHarness.java
-//Purpose: Tests Module 1 graph operations including location management,
-//         road management, traversals, cycle detection and shortest path.
-
 public class GraphTestHarness {
     static int passed = 0;
     static int total = 0;
