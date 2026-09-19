@@ -1,8 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: HeapTestHarness.java
-//Purpose: Tests ride scheduling heap operations.
-
 public class HeapTestHarness {
     static int passed = 0;
     static int total = 0;
