@@ -1,8 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: Menu.java
-//Purpose: Provides the menu-driven user interface, that validates the user input and ouputs the respective data for the ZipRide Ride Sharing Management System.
-
 import java.util.Scanner;
 
 public class Menu{
