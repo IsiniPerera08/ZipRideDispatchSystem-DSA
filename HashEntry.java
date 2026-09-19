@@ -1,11 +1,3 @@
-// Author : Isini Ayansa Perera
-//Student ID : 23601321
-// Date : 2026
-//File: HashEntry.java
-//Purpose: Represents a single entry in the hash table, stores a key-value pair &
-//          a deletion flag used for open-addressing hash table operations.
-// reference- lec notes and practical submission
-
 public class HashEntry {
 
     private int key;
