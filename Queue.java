@@ -1,10 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: Queue.java
-//Purpose: Implements a queue Abstract Data Type (ADT) using a linked list, supports FIFO operations
-//       and is used by graph traversal algorithms such as Breadth First Search (BFS).
-// Cited from Practical 2 submission — refactored to use DSALinkedList. and lecture slides
-
 import java.util.NoSuchElementException;
 
 public class Queue {
