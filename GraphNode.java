@@ -1,10 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: GraphNode.java
-//Purpose:  Represents a location (vertex) in the road network graph, stores the location label, 
-//          adjacency list of connected roads & additional attributes used for graph traversal algorithms.
-//reference: lecture slides
-
 public class GraphNode {
     private String label;
     private boolean visited;
