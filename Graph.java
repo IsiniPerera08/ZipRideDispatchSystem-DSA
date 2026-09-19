@@ -1,10 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: Graph.java
-//Purpose:  Implements the road network as a graph data structure, manages locations(vertices) & roads(edges) & provides
-//          operations for adding, searching, displaying, and loading graph data from CSV files.
-//reference: lecture slides and practical submission
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 
