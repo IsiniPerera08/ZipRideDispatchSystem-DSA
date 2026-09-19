@@ -1,10 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: ListNode.java
-//Purpose: Represents a node within the linked list,stores an object value and a reference to the next node.
-//reference: lecture slides
-//cited from the practical submission
-
 public class ListNode {
 
     private Object value;
