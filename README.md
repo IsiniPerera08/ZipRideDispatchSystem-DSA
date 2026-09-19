@@ -1,14 +1,4 @@
 # Zip Ride Dispatch System
-=================================
-##### Name: Isini Ayansa Perera
-##### StudentID: 23601321
-##### Unit: COMP1002- DSA
-##### Final Assignment README file
-=================================
-
-
-## * All .java, CSV data file are stored in the same project folder called **COMP1002_assignment_23601321**
-
 
 ### 1. TO RUN THE PROGRAM
 You have to compile and run, to do so,
