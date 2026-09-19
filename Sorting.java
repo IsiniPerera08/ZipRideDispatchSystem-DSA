@@ -1,11 +1,3 @@
-// Author: Isini  Ayansa Perera
-//Student ID : 23601321
-// Date: 2026
-// Purpose : Module 4 — Implements Merge Sort and Quick Sort algorithms for analysing ride request data. 
-//          Provides benchmarking and performance comparison functionality between sorting algorithms.
-//adapted and extended from COMP1002 practical submission.
-
-
 public class Sorting {
     private static int compCount = 0; //comparison counter used to measure algorithm performance
     public static void resetCount(){ //resets comparison count before a new sorting run
