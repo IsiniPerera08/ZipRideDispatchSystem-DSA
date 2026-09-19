@@ -1,10 +1,3 @@
-// Author : Isini Ayansa Perera
-//Student ID : 23601321
-// Date   : 2026
-// File  :HashTable.java
-//Purpose : Implements a hash table using open addressing and linear probing, stores and manages passenger &
-//          driver records, supporting insertion, searching, deletion, loading, and saving operations.
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
