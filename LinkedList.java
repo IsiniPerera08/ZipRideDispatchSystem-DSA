@@ -1,10 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: LinkedList.java
-//Purpose: Implements a singly linked list data structure, provides insertion,
-//       removal, traversal, and utility operations used throughout the ZipRide system.
-//reference: lecture slides
-
 import java.util.NoSuchElementException;
 
 public class LinkedList {
