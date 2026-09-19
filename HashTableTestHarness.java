@@ -1,8 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: HashTableTestHarness.java
-//Purpose: Tests passenger and driver hash table operations.
-
 public class HashTableTestHarness {
     static int passed = 0;
     static int total = 0;
