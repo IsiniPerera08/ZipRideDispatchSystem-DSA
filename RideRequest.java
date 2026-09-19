@@ -1,9 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: RideRequest.java
-//Purpose: Represents a ride request and calculates its priority based on 
-//         membership tier and pickup time for heap-based scheduling.
-
 public class RideRequest {
 
     private int passengerId;
