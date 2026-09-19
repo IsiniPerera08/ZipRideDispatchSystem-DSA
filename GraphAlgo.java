@@ -1,11 +1,3 @@
-//Name: Isini Ayansa Perera
-//Student Id: 23601321
-//File: GraphAlgo.java
-//Purpose: Implements graph algorithms used in the ZipRide system, including Breadth First Search (BFS), Depth First Search (DFS),
-//         cycle detection, and Dijkstra's shortest path algorithm.
-//reference(Dijkstra): https://www.w3schools.com/dsa/dsa_algo_graphs_dijkstra.php and https://www.geeksforgeeks.org/dsa/dijkstras-shortest-path-algorithm-greedy-algo-7/
-//reference(cyclic): https://www.w3schools.com/dsa/dsa_algo_graphs_cycledetection.php and https://www.geeksforgeeks.org/java/java-program-for-detect-cycle-in-a-directed-graph/
-
 public class GraphAlgo {
     private static boolean firstNode;
     
